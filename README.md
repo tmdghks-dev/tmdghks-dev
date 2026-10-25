@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tmdghks-dev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <div align="center">
