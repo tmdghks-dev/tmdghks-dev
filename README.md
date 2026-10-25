@@ -32,17 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmdghks-dev&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmdghks-dev&theme=tokyonight" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tmdghks-dev&theme=tokyonight&utcOffset=9" width="32%" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/profile-night-rainbow.svg" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tmdghks-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
 </div>
 
 ## 🐍 Contribution Snake
