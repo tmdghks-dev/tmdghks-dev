@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <div align="center">

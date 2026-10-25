@@ -1,4 +1,4 @@
-name: snake
+name: profile-graphs
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
@@ -15,6 +15,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#161b22,#3b1f6e,#5b21b6,#7c3aed,#a78bfa
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - run: cp profile-3d-contrib/*.svg dist/
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
