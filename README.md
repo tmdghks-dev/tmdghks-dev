@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SEUNGHWAN&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Backend%20·%20Drone%20·%20Web&descAlignY=62&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SEUNGHWAN&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Backend%20·%20App%20·%20Web&descAlignY=62&descSize=18&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%8A%B9%ED%99%98%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%F0%9F%A5%88+AI+%EB%93%9C%EB%A1%A0%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C+%EC%9D%80%EC%83%81;Java+%C2%B7+Python+%C2%B7+Firebase" />
 
@@ -13,7 +13,7 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,git,github,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,androidstudio,git,github,idea,vscode&theme=dark" />
 </div>
 
 ## 🏆 Featured Projects
