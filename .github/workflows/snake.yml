@@ -19,7 +19,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - run: mkdir out && cp dist/*.svg profile-3d-contrib/*.svg out/
+      - uses: actions/checkout@v4
+        with: { path: src }
+      - run: mkdir out && cp dist/*.svg profile-3d-contrib/*.svg out/ && python3 src/stats.py ${{ github.repository_owner }} out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

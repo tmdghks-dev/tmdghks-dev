@@ -16,14 +16,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,androidstudio,git,github,idea,vscode&theme=dark" />
 </div>
 
-## 🏆 Featured Projects
+## 📈 Stats
 
 <div align="center">
-  <a href="https://github.com/tmdghks-dev/tello-circle-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tmdghks-dev&repo=tello-circle-landing&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-  <a href="https://github.com/tmdghks-dev/ruach-counseling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tmdghks-dev&repo=ruach-counseling&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/productive-time.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/github-stats.svg" width="49%" />
 </div>
-
-> 🥈 **tello-circle-landing** — 제8회 전국대학교 인공지능 드론경진대회 **은상** · Tello 자율비행 + OpenCV 색상 마커 인식 정밀 착륙
 
 ## 📊 GitHub Analytics
 
