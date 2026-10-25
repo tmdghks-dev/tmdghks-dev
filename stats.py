@@ -48,8 +48,8 @@ stars = sum(r["stargazerCount"] for r in user["repositories"]["nodes"])
 
 
 def card(title, rows, path):
-    W, top, lh = 440, 58, 24
-    H = top + lh * len(rows) + 22
+    W, top, lh, n_rows = 440, 58, 24, 5  # fixed rows so both cards match
+    H = top + lh * n_rows + 22
     lines = "".join(
         f'<text x="40" y="{top + 22 + i * lh}" class="n">{i + 1}</text>'
         f'<text x="62" y="{top + 22 + i * lh}" xml:space="preserve">{escape(row)}</text>'
@@ -58,7 +58,7 @@ def card(title, rows, path):
 <style>text{{font:13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}}.n{{fill:#6e7681}}.t{{font:600 15px -apple-system,Segoe UI,sans-serif;fill:#a78bfa}}</style>
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="33" class="t">{escape(title)}</text>
-<rect x="20" y="{top - 6}" width="{W - 40}" height="{lh * len(rows) + 14}" rx="6" fill="#161b22"/>
+<rect x="20" y="{top - 6}" width="{W - 40}" height="{lh * n_rows + 14}" rx="6" fill="#161b22"/>
 {lines}</svg>'''
     open(os.path.join(OUT, path), "w").write(svg)
 
