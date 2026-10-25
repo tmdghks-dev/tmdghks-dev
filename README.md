@@ -13,7 +13,7 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,git,github,idea,vscode&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,git,github,idea,vscode&theme=dark" />
 </div>
 
 ## 🏆 Featured Projects
@@ -26,10 +26,6 @@
 > 🥈 **tello-circle-landing** — 제8회 전국대학교 인공지능 드론경진대회 **은상** · Tello 자율비행 + OpenCV 색상 마커 인식 정밀 착륙
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmdghks-dev&theme=tokyonight" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/profile-night-rainbow.svg" width="100%" />
