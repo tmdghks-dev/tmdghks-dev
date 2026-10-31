@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200">
+<style>text{font:13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e6edf3}.n{fill:#6e7681}.t{font:600 15px -apple-system,Segoe UI,sans-serif;fill:#a78bfa}</style>
+<rect x=".5" y=".5" width="439" height="199" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="33" class="t">I&#x27;m an early bird 🐤</text>
+<rect x="20" y="52" width="400" height="134" rx="6" fill="#161b22"/>
+<text x="40" y="80" class="n">1</text><text x="62" y="80" xml:space="preserve">🌞 Morning   4 commits  ██░░░░░░░░░░░░░  12.5%</text><text x="40" y="104" class="n">2</text><text x="62" y="104" xml:space="preserve">🌆 Daytime  12 commits  ██████░░░░░░░░░  37.5%</text><text x="40" y="128" class="n">3</text><text x="62" y="128" xml:space="preserve">🌃 Evening   2 commits  █░░░░░░░░░░░░░░   6.2%</text><text x="40" y="152" class="n">4</text><text x="62" y="152" xml:space="preserve">🌙 Night    14 commits  ███████░░░░░░░░  43.8%</text></svg>
