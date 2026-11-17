@@ -13,7 +13,7 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,opencv,html,css,js,firebase,androidstudio,git,github,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea&theme=dark" />
 </div>
 
 ## 📈 Stats
