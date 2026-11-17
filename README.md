@@ -13,14 +13,7 @@
 ## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea&theme=dark" />
-</div>
-
-## 📈 Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/productive-time.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/tmdghks-dev/tmdghks-dev/output/github-stats.svg" width="49%" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,flutter,androidstudio&theme=dark" />
 </div>
 
 ## 📊 GitHub Analytics
